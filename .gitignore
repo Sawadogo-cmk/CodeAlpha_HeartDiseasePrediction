@@ -29,3 +29,6 @@ desktop.ini
 
 # Keep model artifacts (required for Streamlit Cloud deployment)
 # Do NOT add *.pkl here
+# IDE / Agent tooling
+.agents/
+.claude/
