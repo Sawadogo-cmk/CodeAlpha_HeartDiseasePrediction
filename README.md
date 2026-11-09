@@ -12,6 +12,12 @@
 
 ---
 
+## 📸 App Preview
+
+![Heart Disease Predictor Screenshot](images/app_preview.png)
+
+---
+
 ## 🚀 Live Demo
 
 👉 **[Try the interactive app here](https://sawadogo-heart-disease.streamlit.app)**
@@ -124,6 +130,7 @@ CodeAlpha_HeartDiseasePrediction/
 ├── data/
 │   └── heart_disease_uci.csv        # Raw dataset (920 patients)
 ├── images/
+│   ├── app_preview.png              # Streamlit app screenshot
 │   ├── model_comparison.png
 │   ├── roc_curves.png
 │   ├── confusion_matrices.png
